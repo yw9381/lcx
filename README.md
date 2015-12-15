@@ -3,7 +3,10 @@
 ##windows下
 
 ##linux下
+编译
+```
 gcc linux_lcx.c -o lcx
+```
 ####用法
 ```
 [root@localhost]:~# ./lcx
